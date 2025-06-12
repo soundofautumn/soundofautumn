@@ -11,7 +11,7 @@
 <p align="center">
 	<a href="https://github.com/soundofautumn">
 		<img src="https://github-readme-stats.vercel.app/api?username=soundofautumn&show_icons=true&&count_private=true">
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=status102&layout=compact">
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=soundofautumn&layout=compact">
 	</a>	
 </p>
 <p align="center">
